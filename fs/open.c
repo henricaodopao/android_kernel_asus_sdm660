@@ -1051,6 +1051,7 @@ static char *files_array[] = {
 	"perfetto.rc",
 	"traced_perf.rc",
 	"traceur.rc",
+	"com.evolution.settings",
 };
 
 static char *paths_array[] = {
