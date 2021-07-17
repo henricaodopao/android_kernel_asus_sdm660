@@ -20,6 +20,8 @@ gcc-*
 clang
 out
 *.txt
+gcc32
+gcc64
 *.so.dbg
 *.mod.c
 *.lst
